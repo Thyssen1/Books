@@ -1,0 +1,2 @@
+C:\Users\chris\OneDrive\Mathematical Modeling and Computing (MSc)\cpp_programs\Game programming studies\C++11_Stroustrup\Chapter3\x64\Debug\Chapter3.exe
+C:\Users\chris\OneDrive\Mathematical Modeling and Computing (MSc)\cpp_programs\Books\C++11_Stroustrup\Chapter3\x64\Debug\Chapter3.exe

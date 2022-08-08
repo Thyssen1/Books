@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\chris\OneDrive\Mathematical Modeling and Computing (MSc)\cpp_programs\Game programming studies\C++11_Stroustrup\Chapter2\Source.cpp(124,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\chris\OneDrive\Mathematical Modeling and Computing (MSc)\cpp_programs\Game programming studies\C++11_Stroustrup\Chapter2\Source.cpp(110): warning C4715: 'operator++': not all control paths return a value
+  Chapter2.vcxproj -> C:\Users\chris\OneDrive\Mathematical Modeling and Computing (MSc)\cpp_programs\Game programming studies\C++11_Stroustrup\Chapter2\x64\Debug\Chapter2.exe
